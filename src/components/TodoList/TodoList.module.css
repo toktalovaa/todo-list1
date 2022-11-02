@@ -1,0 +1,28 @@
+.btn{
+    margin-left: 12px;
+    
+}
+.listItems{
+    display: flex ;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 24px;
+    padding: 6px;
+}
+.listItems:hover{
+    background: rgb(248, 169, 248);
+    border-radius: 6px;
+}
+
+.close {
+  color:black;
+  text-decoration: line-through;
+}
+
+.filrer{
+   display: flex;
+   justify-content: center;
+}
+.groupBtn{
+    margin-top: 24px;
+}
